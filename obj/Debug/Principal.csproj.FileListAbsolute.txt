@@ -1,0 +1,84 @@
+C:\Users\Rodrigo\AppData\Local\Temporary Projects\Principal\bin\Debug\Principal.exe.config
+C:\Users\Rodrigo\AppData\Local\Temporary Projects\Principal\bin\Debug\Principal.exe
+C:\Users\Rodrigo\AppData\Local\Temporary Projects\Principal\bin\Debug\Principal.pdb
+C:\Users\Rodrigo\AppData\Local\Temporary Projects\Principal\obj\Debug\Principal.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\AppData\Local\Temporary Projects\Principal\obj\Debug\Principal.Form1.resources
+C:\Users\Rodrigo\AppData\Local\Temporary Projects\Principal\obj\Debug\Principal.Properties.Resources.resources
+C:\Users\Rodrigo\AppData\Local\Temporary Projects\Principal\obj\Debug\Principal.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\AppData\Local\Temporary Projects\Principal\obj\Debug\Principal.exe
+C:\Users\Rodrigo\AppData\Local\Temporary Projects\Principal\obj\Debug\Principal.pdb
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Proy\Principal\Principal\bin\Debug\Principal.exe.config
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Proy\Principal\Principal\obj\Debug\Principal.exe
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Proy\Principal\Principal\obj\Debug\Principal.pdb
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Proy\Principal\Principal\bin\Debug\Principal.exe
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Proy\Principal\Principal\bin\Debug\Principal.pdb
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Proy\Principal\Principal\obj\Debug\Principal.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Proy\Principal\Principal\obj\Debug\Principal.Properties.Resources.resources
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Proy\Principal\Principal\obj\Debug\Principal.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Proy\Principal\Principal\obj\Debug\Principal.Conversiones.resources
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Proy\Principal\Principal\obj\Debug\Principal.Menu.resources
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Proy\Principal\Principal\obj\Debug\Principal.Guardar.resources
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Proy\Principal\Principal\obj\Debug\Principal.Mostrar.resources
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Proy\Principal\Principal\obj\Debug\Principal.Pantalla.resources
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Proy\Principal\Principal\obj\Debug\Principal.AboutBox.resources
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Gon y Killua\Principal\Principal\bin\Debug\Principal.exe.config
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Gon y Killua\Principal\Principal\obj\Debug\Principal.exe
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Gon y Killua\Principal\Principal\obj\Debug\Principal.pdb
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Gon y Killua\Principal\Principal\bin\Debug\Principal.exe
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Gon y Killua\Principal\Principal\bin\Debug\Principal.pdb
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Gon y Killua\Principal\Principal\obj\Debug\Principal.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Gon y Killua\Principal\Principal\obj\Debug\Principal.AboutBox.resources
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Gon y Killua\Principal\Principal\obj\Debug\Principal.Conversiones.resources
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Gon y Killua\Principal\Principal\obj\Debug\Principal.Guardar.resources
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Gon y Killua\Principal\Principal\obj\Debug\Principal.Mostrar.resources
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Gon y Killua\Principal\Principal\obj\Debug\Principal.Menu.resources
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Gon y Killua\Principal\Principal\obj\Debug\Principal.Pantalla.resources
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Gon y Killua\Principal\Principal\obj\Debug\Principal.Properties.Resources.resources
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\Gon y Killua\Principal\Principal\obj\Debug\Principal.csproj.GenerateResource.Cache
+C:\Users\Emerson-PC\Desktop\Gon y Killua\Principal\Principal\bin\Debug\Principal.exe.config
+C:\Users\Emerson-PC\Desktop\Gon y Killua\Principal\Principal\obj\Debug\Principal.exe
+C:\Users\Emerson-PC\Desktop\Gon y Killua\Principal\Principal\obj\Debug\Principal.pdb
+C:\Users\Emerson-PC\Desktop\Gon y Killua\Principal\Principal\bin\Debug\Principal.exe
+C:\Users\Emerson-PC\Desktop\Gon y Killua\Principal\Principal\bin\Debug\Principal.pdb
+C:\Users\Emerson-PC\Desktop\Gon y Killua\Principal\Principal\obj\Debug\Principal.csprojResolveAssemblyReference.cache
+C:\Users\Emerson-PC\Desktop\Gon y Killua\Principal\Principal\obj\Debug\Principal.AboutBox.resources
+C:\Users\Emerson-PC\Desktop\Gon y Killua\Principal\Principal\obj\Debug\Principal.Conversiones.resources
+C:\Users\Emerson-PC\Desktop\Gon y Killua\Principal\Principal\obj\Debug\Principal.Guardar.resources
+C:\Users\Emerson-PC\Desktop\Gon y Killua\Principal\Principal\obj\Debug\Principal.Mostrar.resources
+C:\Users\Emerson-PC\Desktop\Gon y Killua\Principal\Principal\obj\Debug\Principal.Menu.resources
+C:\Users\Emerson-PC\Desktop\Gon y Killua\Principal\Principal\obj\Debug\Principal.Pantalla.resources
+C:\Users\Emerson-PC\Desktop\Gon y Killua\Principal\Principal\obj\Debug\Principal.Properties.Resources.resources
+C:\Users\Emerson-PC\Desktop\Gon y Killua\Principal\Principal\obj\Debug\Principal.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\sdf\Principal\Principal\bin\Debug\Principal.exe.config
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\sdf\Principal\Principal\obj\Debug\Principal.exe
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\sdf\Principal\Principal\obj\Debug\Principal.pdb
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\sdf\Principal\Principal\bin\Debug\Principal.exe
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\sdf\Principal\Principal\bin\Debug\Principal.pdb
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\sdf\Principal\Principal\obj\Debug\Principal.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\sdf\Principal\Principal\obj\Debug\Principal.AboutBox.resources
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\sdf\Principal\Principal\obj\Debug\Principal.Conversiones.resources
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\sdf\Principal\Principal\obj\Debug\Principal.Guardar.resources
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\sdf\Principal\Principal\obj\Debug\Principal.Mostrar.resources
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\sdf\Principal\Principal\obj\Debug\Principal.Menu.resources
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\sdf\Principal\Principal\obj\Debug\Principal.Pantalla.resources
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\sdf\Principal\Principal\obj\Debug\Principal.Properties.Resources.resources
+C:\Users\Rodrigo\Documents\Tareas\Programacion 2\sdf\Principal\Principal\obj\Debug\Principal.csproj.GenerateResource.Cache
+C:\Users\kevin\Desktop\Panymas Soft\program files\Universidad Don Bosco\Panymas Soft\Principal\Principal\bin\Debug\Principal.exe.config
+C:\Users\kevin\Desktop\Panymas Soft\program files\Universidad Don Bosco\Panymas Soft\Principal\Principal\obj\Debug\Principal.exe
+C:\Users\kevin\Desktop\Panymas Soft\program files\Universidad Don Bosco\Panymas Soft\Principal\Principal\obj\Debug\Principal.pdb
+D:\UDB\Panymas Soft\program files\Universidad Don Bosco\Panymas Soft\Principal\Principal\bin\Debug\Principal.exe.config
+D:\UDB\Panymas Soft\program files\Universidad Don Bosco\Panymas Soft\Principal\Principal\bin\Debug\Principal.exe
+D:\UDB\Panymas Soft\program files\Universidad Don Bosco\Panymas Soft\Principal\Principal\bin\Debug\Principal.pdb
+D:\UDB\Panymas Soft\program files\Universidad Don Bosco\Panymas Soft\Principal\Principal\obj\Debug\Principal.csproj.AssemblyReference.cache
+D:\UDB\Panymas Soft\program files\Universidad Don Bosco\Panymas Soft\Principal\Principal\obj\Debug\Principal.csproj.SuggestedBindingRedirects.cache
+D:\UDB\Panymas Soft\program files\Universidad Don Bosco\Panymas Soft\Principal\Principal\obj\Debug\Principal.AboutBox.resources
+D:\UDB\Panymas Soft\program files\Universidad Don Bosco\Panymas Soft\Principal\Principal\obj\Debug\Principal.Conversiones.resources
+D:\UDB\Panymas Soft\program files\Universidad Don Bosco\Panymas Soft\Principal\Principal\obj\Debug\Principal.Guardar.resources
+D:\UDB\Panymas Soft\program files\Universidad Don Bosco\Panymas Soft\Principal\Principal\obj\Debug\Principal.Mostrar.resources
+D:\UDB\Panymas Soft\program files\Universidad Don Bosco\Panymas Soft\Principal\Principal\obj\Debug\Principal.Menu.resources
+D:\UDB\Panymas Soft\program files\Universidad Don Bosco\Panymas Soft\Principal\Principal\obj\Debug\Principal.Pantalla.resources
+D:\UDB\Panymas Soft\program files\Universidad Don Bosco\Panymas Soft\Principal\Principal\obj\Debug\Principal.Properties.Resources.resources
+D:\UDB\Panymas Soft\program files\Universidad Don Bosco\Panymas Soft\Principal\Principal\obj\Debug\Principal.csproj.GenerateResource.cache
+D:\UDB\Panymas Soft\program files\Universidad Don Bosco\Panymas Soft\Principal\Principal\obj\Debug\Principal.csproj.CoreCompileInputs.cache
+D:\UDB\Panymas Soft\program files\Universidad Don Bosco\Panymas Soft\Principal\Principal\obj\Debug\Principal.exe
+D:\UDB\Panymas Soft\program files\Universidad Don Bosco\Panymas Soft\Principal\Principal\obj\Debug\Principal.pdb
